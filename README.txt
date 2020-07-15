@@ -12,6 +12,6 @@ Kivy
 kivy-deps.angle
 kivy-deps.glew
 kivy-deps.gstreamer
-kivy-deps,sdl2
+kivy-deps.sdl2
 
 Then you are good to go
