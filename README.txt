@@ -3,7 +3,7 @@
 3. Run the main.py file
 
 Note:
-After creating the project, you have to ibstall some Kivy packages to the interpreter
+After creating the project, you have to install some Kivy packages to the interpreter
 Go to, File>Setting>Python Interpreter
 Click on (+) button
 Search, Kivy
